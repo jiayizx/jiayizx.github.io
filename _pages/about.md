@@ -35,7 +35,7 @@ This site is very much under construction. Please reach out to me with any quest
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL Main</div><img src='images/amr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL Main</div><img src='/images/AMR.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Analyzing the Role of Semantic Representations in the Era of Large Language Models](https://aclanthology.org/2024.naacl-long.209/)
