@@ -58,7 +58,7 @@ Zhijing Jin*, Yuen Chen, Fernando Gonzalez, Jiarui Liu, **Jiayi Zhang**, Julian 
 
 
 # 🩰 Beyond Work
-- I have two cute kittens 🐈, one is a ragdoll and his name is Rainier, another is a american shorthair and his name is Mia (there's a really fun story of the origin of his name)
+- I have two cute kittens 🐈, one is a ragdoll and his name is Rainier, another is an american shorthair and his name is Mia (there's a really fun story of the origin of his name)
 - I like to swim 🏊🏻‍♀️, hiking 🚶🏻‍♀️, and skating ⛸️ duing my spare time. 
 
 
