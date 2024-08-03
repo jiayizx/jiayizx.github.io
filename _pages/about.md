@@ -35,14 +35,19 @@ This site is very much under construction. Please reach out to me with any quest
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL Main</div><img src='/images/AMR.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex-shrink: 0; width: 40%; max-width: 150px; margin-right: 10px;">
+    <div>
+      <div class="badge">NAACL Main</div><img src='/images/AMR.PNG' alt="sym" style="width: 100%;">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
-
-[Analyzing the Role of Semantic Representations in the Era of Large Language Models](https://aclanthology.org/2024.naacl-long.209/)
-
-Zhijing Jin*, Yuen Chen, Fernando Gonzalez, Jiarui Liu, **Jiayi Zhang**, Julian Michael, Bernhard Schölkopf, Mona Diab.
+  [Analyzing the Role of Semantic Representations in the Era of Large Language Models](https://aclanthology.org/2024.naacl-long.209/)
+  Zhijing Jin*, Yuen Chen, Fernando Gonzalez, Jiarui Liu, **Jiayi Zhang**, Julian Michael, Bernhard Schölkopf, Mona Diab.
 </div>
 </div>
+
+
 
 <!-- simple paper -->
 <!-- - `Preprint` [Analyzing the Role of Semantic Representations in the Era of Large Language Models](https://aclanthology.org/2024.naacl-long.209/). Zhijing Jin*, Yuen Chen, Fernando Gonzalez, Jiarui Liu, **Jiayi Zhang**, Julian Michael, Bernhard Schölkopf, Mona Diab. -->
