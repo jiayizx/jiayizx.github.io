@@ -31,6 +31,7 @@ This site is very much under construction. Please reach out to me with any quest
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 I will be an incoming PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/)!
+- *2024.03*: Our paper "[Analyzing the Role of Semantic Representations in the Era of Large Language Models](https://aclanthology.org/2024.naacl-long.209/)" was accepted at NAACL 2024!
 - *2023.12*: &nbsp;📣📣 I am looking for a PhD position in 24 Fall! 
 
 # 📝 Publications 
@@ -46,7 +47,7 @@ This site is very much under construction. Please reach out to me with any quest
   [Analyzing the Role of Semantic Representations in the Era of Large Language Models](https://aclanthology.org/2024.naacl-long.209/)
 
   Zhijing Jin*, Yuen Chen, Fernando Gonzalez, Jiarui Liu, **Jiayi Zhang**, Julian Michael, Bernhard Schölkopf, Mona Diab.
-  
+
 </div>
 </div>
 
