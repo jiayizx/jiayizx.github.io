@@ -42,8 +42,11 @@ This site is very much under construction. Please reach out to me with any quest
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
+
   [Analyzing the Role of Semantic Representations in the Era of Large Language Models](https://aclanthology.org/2024.naacl-long.209/)
+
   Zhijing Jin*, Yuen Chen, Fernando Gonzalez, Jiarui Liu, **Jiayi Zhang**, Julian Michael, Bernhard Schölkopf, Mona Diab.
+  
 </div>
 </div>
 
