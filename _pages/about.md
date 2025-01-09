@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Jiayi Zhang (张嘉怡), an incoming PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). Previously, I was an undergraduate student in the [Electrical Engineering and Computer Science Department](https://eecs.engin.umich.edu/) at [University of Michigan](https://umich.edu/), with a honors major in Computer Science and two minors in Mathematics and Linguistics. 
+Hi there! I'm Jiayi Zhang (张嘉怡), a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). Previously, I was an undergraduate student in the [Electrical Engineering and Computer Science Department](https://eecs.engin.umich.edu/) at [University of Michigan](https://umich.edu/), with a honors major in Computer Science and two minors in Mathematics and Linguistics. 
 
 During my undergraduate, I was fortunate to be surrounded by so many great people!
 
 - I was fortunate to be advised by [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/) of [LAUNCH Lab](https://launch.eecs.umich.edu/), who sparked my interest in Natural Language Processing.
-- During the summer of 2023, I worked in [LIT](https://lit.eecs.umich.edu/index.html) where I was fortuante to be advised by [Prof. Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and mentored by [Zhijng Jin](https://zhijing-jin.com/fantasy/), who taught me how to be a well-trained researcher and sparked my interst in Causal Inference and trustworthy AI.
+- During the summer of 2023, I worked in [LIT](https://lit.eecs.umich.edu/index.html) where I was fortuante to be advised by [Prof. Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and mentored by [Zhijng Jin](https://zhijing-jin.com/fantasy/), who taught me how to be a well-trained researcher and sparked my interst in trustworthy AI.
 
-I am broadly interested in NLP, computational social science, LLM safety, and Agents. 
+My research interest lies in building robust, reliable, and socially responsible NLP systems that align with human needs with a focus on agents, safety, and computational social science.
 
 This site is very much under construction. Please reach out to me with any questions!
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 I will be an incoming PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/)!
+- *2024.09*: &nbsp;🎉🎉 Started as a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/)!
 - *2024.03*: Our paper "[Analyzing the Role of Semantic Representations in the Era of Large Language Models](https://aclanthology.org/2024.naacl-long.209/)" was accepted at NAACL 2024!
 - *2023.12*: &nbsp;📣📣 I am looking for a PhD position in 24 Fall! 
 
@@ -68,7 +68,7 @@ This site is very much under construction. Please reach out to me with any quest
 
 # 🩰 Beyond Work
 - I have two adorable kittens 🐈, Rainier and Mia!
-- In my spare time, I like to swim 🏊🏻‍♀️, hiking 🚶🏻‍♀️, and skating ⛸️. 
+- In my spare time, I like swimming 🏊🏻‍♀️, hiking 🚶🏻‍♀️, and skating ⛸️. 
 - I also played a traditional chinese instrument, called Chinese lute or Pipa (琵琶).
 
 
