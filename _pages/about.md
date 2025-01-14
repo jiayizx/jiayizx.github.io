@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Jiayi Zhang (张嘉怡), currently the first-year PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). Previously, I was an undergraduate student in the [Electrical Engineering and Computer Science Department](https://eecs.engin.umich.edu/) at [University of Michigan](https://umich.edu/), with a honors major in Computer Science and two minors in Mathematics and Linguistics. 
+Hi there! I'm Jiayi Zhang (张嘉怡), currently the first-year PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). Previously, I was an undergraduate student at [University of Michigan](https://umich.edu/), with a honors major in Computer Science and two minors in Mathematics and Linguistics. 
 
 During my undergraduate, I was fortunate to be surrounded by so many great people!
 
