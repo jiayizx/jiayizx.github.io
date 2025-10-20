@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2014-03-13
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper [Analyzing the Role of Semantic Representations in the Era of Large Language Models](https://aclanthology.org/2024.naacl-long.209/) is accepted to NAACL 2024!
