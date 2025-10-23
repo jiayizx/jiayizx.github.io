@@ -33,5 +33,5 @@ Previously, I was an undergraduate student at University of Michigan (UMich), wi
 
 My research interest lies on building robust and socially responsible NLP systems that align with human needs and preferences. Currently, I'm particularly interested in:
 
-- **Multi-agent social simulation**: Understanding LLMs' behavioral patterns and social reasoning in complex social scenarios.
-- **Human-AI interaction alignment**: Studying the gaps between human-human and human-AI interactions to better align LLMs with diverse human preferences and application scenarios.
+- **Social simulation**: Understanding LLMs' behavioral patterns and social reasoning in complex social scenarios.
+- **Human-AI alignment**: Studying the gaps between human-human and human-AI interactions to better align LLMs with diverse human preferences and application scenarios.
