@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a ~~first~~ second-year PhD student in the Khoury College of Computer Sciences at Northeastern University. I am advised by Prof. [Weiyan Shi](https://wyshi.github.io/) and a member of the [CHATS Lab](https://wyshi.github.io/group.html).
+I am a ~~first~~ second-year PhD student in the Khoury College of Computer Sciences at Northeastern University advised by Prof. [Weiyan Shi](https://wyshi.github.io/). I am also a member of the [CHATS Lab](https://wyshi.github.io/group.html).
 
 Previously, I was an undergraduate student at University of Michigan (UMich), with a honors major in Computer Science and two minors in Mathmatics and Linguistics. I was fortunate to be advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) at [LAUNCH Lab](https://launch.eecs.umich.edu/). I was also privileged to work closely with Prof. [Zhijing Jin](https://zhijing-jin.com/home/).
 
