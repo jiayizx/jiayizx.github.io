@@ -29,9 +29,12 @@ latest_posts:
 
 I am a ~~first~~ second-year PhD student in the Khoury College of Computer Sciences at Northeastern University advised by Prof. [Weiyan Shi](https://wyshi.github.io/). I am also a member of the [CHATS Lab](https://wyshi.github.io/group.html).
 
-Previously, I was an undergraduate student at University of Michigan (UMich), with a honors major in Computer Science and two minors in Mathmatics and Linguistics. I was fortunate to be advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) at [LAUNCH Lab](https://launch.eecs.umich.edu/). I was also privileged to work closely with Prof. [Zhijing Jin](https://zhijing-jin.com/home/).
+Previously, I was an undergraduate student at University of Michigan (UMich), with a honors major in Computer Science and two minors in Mathmatics and Linguistics. I was fortunate to be advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) at [LAUNCH Lab](https://launch.eecs.umich.edu/). I was also privileged to work closely with Prof. [Zhijing Jin](https://zhijing-jin.com/home/) and Prof. [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/).
 
 My research interest lies on building robust and socially responsible NLP systems that align with human needs and preferences. Currently, I'm particularly interested in:
 
-- **Social simulation**: Understanding LLMs' behavioral patterns and social reasoning in complex social scenarios.
-- **Human-AI alignment**: Studying the gaps between human-human and human-AI interactions to better align LLMs with diverse human preferences and application scenarios.
+- **Social Simulation**: Understanding LLMs' behavioral patterns and social reasoning in complex, open-ended scenarios and comparing them with human behavior;
+- **LLM as User Simulator**: Building human-like LLM-based user simulators to bridge RL training with real-world interaction;
+- I am also quite interested in multi-modal modeling and reasoning and LLMs for Scientific Discovery.
+
+<mark>I am seeking a research internship for Summer 2026. Please feel free to contact me if you believe there is a potential fit.</mark>
