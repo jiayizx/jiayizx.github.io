@@ -16,7 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-our-paper-analyzing-the-role-of-semantic-representations-in-the-era-of-large-language-models-is-accepted-to-naacl-2024",
+        },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "news-our-paper-analyzing-the-role-of-semantic-representations-in-the-era-of-large-language-models-is-accepted-to-naacl-2024",
           title: 'Our paper Analyzing the Role of Semantic Representations in the Era of Large...',
           description: "",
           section: "News",},{id: "news-new-preprint-out-on-verbalized-sampling-how-to-mitigate-mode-collapse-and-unlock-llm-diversity",
