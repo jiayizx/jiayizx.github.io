@@ -16,19 +16,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-analyzing-the-role-of-semantic-representations-in-the-era-of-large-language-models-is-accepted-to-naacl-2024",
+        },{id: "news-our-paper-analyzing-the-role-of-semantic-representations-in-the-era-of-large-language-models-is-accepted-to-naacl-2024",
           title: 'Our paper Analyzing the Role of Semantic Representations in the Era of Large...',
-          description: "",
-          section: "News",},{id: "news-started-as-a-phd-student-at-northeastern-university-advised-by-prof-weiyan-shi",
-          title: 'Started as a PhD student at Northeastern University, advised by Prof. Weiyan Shi....',
           description: "",
           section: "News",},{id: "news-new-preprint-out-on-verbalized-sampling-how-to-mitigate-mode-collapse-and-unlock-llm-diversity",
           title: 'New preprint out on Verbalized Sampling: How to Mitigate Mode Collapse and Unlock...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-out-on-bear-benchmarking-and-enhancing-multimodal-language-models-for-atomic-embodied-capabilities",
+          title: 'New preprint out on BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
