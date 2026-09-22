@@ -1,13 +1,13 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/Jiayi_Resume.pdf # path to your CV PDF file
 email: jiayizx0427@gmail.com # your email address
 scholar_userid: yzoCo8wAAAAJ # your Google Scholar ID
 github_username: jiayizx # your GitHub user name
-linkedin_username: jiayi-zhang-94b837197 # your LinkedIn user name
+linkedin_username: jiayizx # your LinkedIn user name
 x_username: jiayizx0427 # your X handle
-rss_icon: true # comment this line to hide the RSS icon
+# cv_pdf: /assets/pdf/Jiayi_Resume.pdf # path to your CV PDF file
+# rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
