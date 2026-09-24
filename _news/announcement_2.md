@@ -1,8 +1,6 @@
-<!-- ---
-layout: post
-date: 2024-09-01
+---
+date: 2025-10-01
 inline: true
-related_posts: false
 ---
 
-Started as a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). -->
+New preprint out on [Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](https://arxiv.org/abs/2510.01171).

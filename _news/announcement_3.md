@@ -1,6 +1,6 @@
 ---
-date: 2025-10-01
+date: 2025-10-09
 inline: true
 ---
 
-New preprint out on [Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](https://arxiv.org/abs/2510.01171).
+New preprint out on [BEAR: Benchmarking and Enhancing Multimodal Language Models for Atomic Embodied Capabilities](https://arxiv.org/abs/2510.08759).
